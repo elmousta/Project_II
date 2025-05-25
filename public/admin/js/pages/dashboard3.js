@@ -8,6 +8,7 @@ $(function () {
     fontStyle: 'bold'
   }
 
+    
   var mode = 'index'
   var intersect = true
 
