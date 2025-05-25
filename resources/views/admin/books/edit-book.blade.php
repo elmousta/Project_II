@@ -20,7 +20,7 @@
         </div>
         <!-- /.content-header -->
 
-        <!-- Main content -->
+        <!-- The Main content -->
         <section class="content">
             <div class="container-fluid">
                 <div class="row">
