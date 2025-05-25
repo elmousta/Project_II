@@ -13,6 +13,7 @@
         "livewire/livewire": "^2.12",
       "ext-mongodb": "*"
     },
+    
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
         "laravel/pint": "^1.0",
