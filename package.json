@@ -1,4 +1,3 @@
-#ProjectII
 {
     "private": true,
     "scripts": {
@@ -11,3 +10,4 @@
         "vite": "^4.0.0"
     }
 }
+
