@@ -19,3 +19,4 @@ class Auth extends Model
         'password',
     ];
 }
+
