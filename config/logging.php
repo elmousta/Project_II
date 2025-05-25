@@ -9,7 +9,7 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Default Log Channel
+    | Default Log Channels
     |--------------------------------------------------------------------------
     |
     | This option defines the default log channel that gets used when writing
